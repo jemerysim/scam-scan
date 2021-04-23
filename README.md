@@ -1,5 +1,5 @@
 # scam-scan
-
+SMS Spam & Scam Classifier
 
 ## Authors
 * **Wong Wei Kang** - [wwongwk](https://github.com/wwongwk)
